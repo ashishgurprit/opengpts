@@ -59,3 +59,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+
+# Streamlined Development - Claude Code configuration
+# These files are synced from a private master repo
+.claude/
